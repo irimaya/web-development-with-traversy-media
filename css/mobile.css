@@ -1,0 +1,11 @@
+#main-header,
+#navbar {
+  float: none;
+  text-align: center;
+}
+
+.exercise {
+  float: none;
+  width: 100%;
+  height: 100%;
+}
